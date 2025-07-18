@@ -12,5 +12,8 @@ The repo contains the frontend interface I co-developed for the "Status Now" emp
 - JavaScript
 
 ## Screenshots
+*Login Screen
 ![Login Page Screenshot](demo/status_now_login.png)
+
+*Home Page
 ![Home Page Screenshot](demo/status_now_homepage.png)
