@@ -12,7 +12,5 @@ The repo contains the frontend interface I co-developed for the "Status Now" emp
 - JavaScript
 
 ## Screenshots
-<img width="1886" height="979" alt="status_now_login" src="https://github.com/user-attachments/assets/530aaf7b-1b15-49a2-a07a-b463d196c809" />
-Login Page
-<img width="1905" height="986" alt="status_now_homepage" src="https://github.com/user-attachments/assets/53d8c034-b17e-4810-8840-7473b2723520" />
-Home Page
+![Login Page Screenshot](demo/status_now_login.png)
+![Home Page Screenshot](demo/status_now_homepage.png)
