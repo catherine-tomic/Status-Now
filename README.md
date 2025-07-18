@@ -1,10 +1,10 @@
-Forked from [original repo](https://github.com/sp-ec/patriothacks-2024).
-The repo contains the frontend interface I co-developed for the "Status Now" employee shift app, built during [Patriothacks, October 2024]
+This repository is a fork of the full [PatriotHacks 2024 Project](https://github.com/sp-ec/patriothacks-2024).
+This fork contains the entire complete team submission, but I intend to highlight my contributions to the project. We finished a prototype for a web app called **Status Now**, that allows employees to update their shift status, location, and availability in real-time.
 
 ## My Contributions
-- Developed the frontend login page
-- Co-developed home page
-- Created a dynamic, animated moving logo
+- Designed and implemented the Login Page
+- Co-developed the home page
+- Created an animated moving logo
 
 ## Technologies Used
 - React
