@@ -6,7 +6,7 @@ The repo contains the frontend interface I co-developed for the "Status Now" emp
 - Co-developed home page
 - Created a dynamic, animated moving logo
 
-  ## Technologies Used
-  - React
-  - Tailwind CSS
-  - JavaScript
+## Technologies Used
+- React
+- Tailwind CSS
+- JavaScript
